@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/github/size/bebasid/bebasid/releases/hosts.svg?label=ukuran" alt="Ukuran rilis">
 </p>
 <p align="center">
-    <img src="https://discordapp.com/api/guilds/630415907021389825/widget.png?style=banner2" alt="Discord Banner 2"/>
+    <a href="https://discord.gg/EKrxZyu"><img src="https://discordapp.com/api/guilds/630415907021389825/widget.png?style=banner2" alt="Discord Banner 2"/></a>
 </p>
 <p align="center">
     <a href="README.en.md">Read README in English</a>
