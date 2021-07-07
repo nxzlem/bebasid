@@ -6,10 +6,8 @@
     <img src="https://img.shields.io/github/size/bebasid/bebasid/releases/hosts.svg?label=ukuran" alt="Ukuran rilis">
 </p>
 <p align="center">
-    <a href="https://discord.gg/EKrxZyu"><img src="https://discordapp.com/api/guilds/630415907021389825/widget.png?style=banner2" alt="Discord Banner 2"/></a>
-</p>
-<p align="center">
-    <iframe src="https://discord.com/widget?id=630415907021389825&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>          
+    <img src="https://discordapp.com/api/guilds/630415907021389825/widget.png?style=banner4" alt="Discord Banner 4"/>
+</p>     
 </p>
 <p align="center">
     <a href="README.en.md">Read README in English</a>
